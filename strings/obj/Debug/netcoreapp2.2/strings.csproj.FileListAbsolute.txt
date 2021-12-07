@@ -1,0 +1,11 @@
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\strings\obj\Debug\netcoreapp2.2\strings.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\strings\obj\Debug\netcoreapp2.2\strings.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\strings\obj\Debug\netcoreapp2.2\strings.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\strings\obj\Debug\netcoreapp2.2\strings.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\strings\bin\Debug\netcoreapp2.2\strings.deps.json
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\strings\bin\Debug\netcoreapp2.2\strings.runtimeconfig.json
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\strings\bin\Debug\netcoreapp2.2\strings.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\strings\bin\Debug\netcoreapp2.2\strings.dll
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\strings\bin\Debug\netcoreapp2.2\strings.pdb
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\strings\obj\Debug\netcoreapp2.2\strings.dll
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\strings\obj\Debug\netcoreapp2.2\strings.pdb
