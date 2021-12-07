@@ -1,0 +1,11 @@
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\input\bin\Debug\netcoreapp2.2\input.deps.json
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\input\bin\Debug\netcoreapp2.2\input.runtimeconfig.json
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\input\bin\Debug\netcoreapp2.2\input.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\input\bin\Debug\netcoreapp2.2\input.dll
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\input\bin\Debug\netcoreapp2.2\input.pdb
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\input\obj\Debug\netcoreapp2.2\input.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\input\obj\Debug\netcoreapp2.2\input.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\input\obj\Debug\netcoreapp2.2\input.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\input\obj\Debug\netcoreapp2.2\input.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\input\obj\Debug\netcoreapp2.2\input.dll
+C:\Users\Usuario\Downloads\C#\atividadesCSharp\input\obj\Debug\netcoreapp2.2\input.pdb
